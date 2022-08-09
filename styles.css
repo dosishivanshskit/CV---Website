@@ -1,0 +1,94 @@
+    body {
+
+      text-align: center;
+      margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    }
+    h1{
+      font-size: 5.645rem;
+      margin: 0 auto 0 auto;
+      font-family: 'Satisfy', cursive;
+    }
+    h2{
+      font-size: 2.5rem;
+      color: #003865;
+    }
+    h3{
+      font-size: 1.6rem;
+      color: #256D85;
+    }
+    P{
+      font-size: 35px;
+    }
+
+  .Top-Container {
+
+    background-color:#495C83;
+
+    padding: 100px;
+    position: relative;
+
+
+  }
+
+  .Middel-Container{}
+
+  .Bottom-Container{
+
+  }
+.bottom-cloud{
+  position: absolute;
+    left: 400px;
+    bottom: 420px;
+}
+
+.top-cloud{
+position: absolute;
+right: 400px;
+top: 50px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.Profile-image{
+  margin-top: 80px;
+}
+
+.Profile-para-1{
+  width:30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  font-size: 25px;
+
+}
+hr{
+  border-style: dotted none none;
+  border-width:10px;
+  border-color: #C9BBCF;
+  width:5%
+}
+.Skill-image-1{
+  border-radius: 100%;
+  width: 150px;
+  height: 100px;
+
+}
+.Profile-para-2{
+  width:30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  font-size: 25px;
+}
+
+.Profile-para-3{
+  width:30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  font-size: 25px;}
+
+.Skill-image-2{
+  border-radius: 100%;
+  width: 150px;
+  height: 100px;}
