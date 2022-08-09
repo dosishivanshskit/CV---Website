@@ -92,3 +92,15 @@ hr{
   border-radius: 100%;
   width: 150px;
   height: 100px;}
+
+.Profile-para-4{
+  width:30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  font-size: 25px;}
+
+.Profile-para-5{
+  width:30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  font-size: 25px;}
